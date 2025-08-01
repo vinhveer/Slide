@@ -1,9 +1,9 @@
 ---
 marp: true
-title: Python Data Type
+title: Operator
 theme: default
 paginate: true
-header: 'Data Type • 01/08/2025'
+header: 'Operator • 01/08/2025'
 footer: '© 2025 Nguyen Quang Vinh'
 ---
 <style>

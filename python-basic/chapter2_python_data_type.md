@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Python Data Type
+title: Data Type
 theme: default
 paginate: true
 header: 'Data Type • 01/08/2025'

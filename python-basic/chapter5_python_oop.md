@@ -1,10 +1,10 @@
 ---
 marp: true
-title: Python Control Flow
+title: Object-Oriented Programming
 theme: default
 paginate: true
-header: 'Python Control Flow • 01/08/2025'
-footer: '© 2025 Nguyen Quang Vinh'
+header: 'Object-Oriented Programming • 01/08/2025'
+footer: '© 2025 - Nguyen Quang Vinh'
 ---
 <style>
 table {
@@ -21,7 +21,7 @@ h1 span {
     font-weight: 800;
 }
 </style>
-# Chapter 4 <br> <span>Control Flow</span>
+# Chapter 5 <br> <span>Object-Oriented Programming</span>
 
 ---
 # Mọi thứ trong Python là **object/class**

@@ -1,10 +1,10 @@
 ---
 marp: true
-title: Python Control Flow
+title: Package
 theme: default
 paginate: true
-header: 'Python Control Flow • 01/08/2025'
-footer: '© 2025 Nguyen Quang Vinh'
+header: 'Package • 01/08/2025'
+footer: '© 2025 - Nguyen Quang Vinh'
 ---
 <style>
 table {

@@ -1,9 +1,9 @@
 ---
 marp: true
-title: Python Syntax
+title: Syntax
 theme: default
 paginate: true
-header: 'Python Syntax • 01/08/2025'
+header: 'Syntax • 01/08/2025'
 footer: '© 2025 Nguyen Quang Vinh'
 ---
 <style scoped>
@@ -15,7 +15,7 @@ h1 span {
     font-weight: 800;
 }
 </style>
-# Chapter 1<br><span>Python Syntax</span>
+# Chapter 1<br><span>Syntax</span>
 
 ---
 # Thụt dòng (Indentation) — Không có `{}` hay `begin-end`
